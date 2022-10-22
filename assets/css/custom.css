@@ -1,0 +1,17 @@
+.width_box1 {
+    width: 30%;
+    /* background-color: palevioletred; */
+    border-radius: 30px;
+}
+
+.bg-card-1 {
+    background: linear-gradient( 180deg, rgba(255, 195, 113, 1) 0%, rgba(245, 75, 48, 1) 100%);
+}
+
+.bg-card-2 {
+    background: linear-gradient(180deg, #00f88d 0%, #00c570 100%);
+}
+
+.bg-card-3 {
+    background: linear-gradient(180deg, #38f0f2 0%, #00c2ff 100%);
+}
